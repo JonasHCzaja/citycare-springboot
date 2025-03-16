@@ -109,3 +109,5 @@ The system uses JSON Web Token (JWT) authentication. To access protected endpoin
 
 #
 
+Developed by **JonasHCzaja**.
+
